@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-header {
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.jumbotron {
+    margin-top: 10%;
+}
+
+.thumbnail {
+    text-decoration: none;
+}
+
+footer {
+    padding: 10px 0;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
