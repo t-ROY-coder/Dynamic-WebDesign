@@ -3,6 +3,8 @@ body {
     position: relative;
     min-height: 100%;
     min-height: 100vh;
+    background-image: url(../img/intro-bg_1.jpg);
+    background-size: cover;
 }
 
 .navbar-header {
@@ -10,7 +12,11 @@ body {
 }
 
 #signup-content {
-    margin-top: 22%;
+    margin-top: 15%;
+    padding: 10%;
+    padding-top: 5%;
+    background-color: rgba(6, 6, 6, 0.7);
+    color: white;
 }
 
 h2 {

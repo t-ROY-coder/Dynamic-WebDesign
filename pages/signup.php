@@ -28,8 +28,8 @@ if(isset($_SESSION['email']))
     <?php
     include 'includes/header.php';
     ?>
-    <div class="container-fluid">
-        <div class="col-sm-4 col-sm-offset-4">
+    <div class="container">
+        <div class="col-sm-6 col-sm-offset-3">
             <div id="signup-content">
                 <h2>SIGN UP</h2>
                 <form class="form" method="post" action="signup_script.php">
