@@ -59,7 +59,7 @@ if(isset($_SESSION['email']))
         <div class="row">
             <div id="banner-image">
                 <div class="container">
-                    <div class="col-sm-6 col-sm-offset-3" id="banner-content">
+                    <div class="col-sm-6 col-sm-offset-3 jumbotron" id="banner-content">
                         <h2>We sell lifestyle.</h2>
                         <p>Flat 40% OFF on premium brands</p>
                         <br>
