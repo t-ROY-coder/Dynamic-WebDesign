@@ -73,7 +73,7 @@ if(isset($_SESSION['email']))
         <div class="container text-center" id="prod">
             <div class="col-sm-4">
                 <a href="pages/product.php#cameras" class="thumbnail">
-                    <img src="img/1.jpg" class="img-responsive">
+                    <img src="img/intro-c.jpg" class="img-responsive">
                     <div class="caption">
                         <h2>Cameras</h2>
                         <p>Choose among the best available in the world</p>
@@ -82,7 +82,7 @@ if(isset($_SESSION['email']))
             </div>
             <div class="col-sm-4">
                 <a href="pages/product.php#watches" class="thumbnail">
-                    <img src="img/7.jpg" class="img-responsive">
+                    <img src="img/intro-w.jpg" class="img-responsive">
                     <div class="caption">
                         <h2>Watches</h2>
                         <p>Original Watches from the best brands</p>
@@ -91,7 +91,7 @@ if(isset($_SESSION['email']))
             </div>
             <div class="col-sm-4">
                 <a href="pages/product.php#shirts" class="thumbnail">
-                    <img src="img/8-1.jpg" class="img-responsive">
+                    <img src="img/intro-s.jpg" class="img-responsive">
                     <div class="caption">
                         <h2>Shirts</h2>
                         <p>Our exquisite collection of shirts</p>
